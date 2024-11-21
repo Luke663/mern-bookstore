@@ -1,0 +1,59 @@
+{
+    "count": 6,
+    "data": [
+        {
+            "_id": "672a05e2d08470882b7ac8cb",
+            "title": "Conan the Barbarian",
+            "author": "Robert E. Howard",
+            "publishYear": 1955,
+            "createdAt": "2024-11-05T11:47:46.267Z",
+            "updatedAt": "2024-11-05T14:54:08.931Z",
+            "__v": 0
+        },
+        {
+            "_id": "672b7a753de4538e858805c6",
+            "title": "The Divine Comedy",
+            "author": "Dante Alighieri",
+            "publishYear": 1321,
+            "createdAt": "2024-11-06T14:17:25.488Z",
+            "updatedAt": "2024-11-06T14:17:25.488Z",
+            "__v": 0
+        },
+        {
+            "_id": "672b7aa03de4538e858805c8",
+            "title": "Prisoner of the Horned Helmet",
+            "author": "James Silke",
+            "publishYear": 1988,
+            "createdAt": "2024-11-06T14:18:08.004Z",
+            "updatedAt": "2024-11-06T14:18:08.004Z",
+            "__v": 0
+        },
+        {
+            "_id": "672b7abe3de4538e858805ca",
+            "title": "The Fellowship of the Ring",
+            "author": "J. R. R. Tolkien",
+            "publishYear": 1954,
+            "createdAt": "2024-11-06T14:18:38.898Z",
+            "updatedAt": "2024-11-06T14:18:38.898Z",
+            "__v": 0
+        },
+        {
+            "_id": "672b7af83de4538e858805cc",
+            "title": "Paradise Lost",
+            "author": "John Milton",
+            "publishYear": 1667,
+            "createdAt": "2024-11-06T14:19:36.732Z",
+            "updatedAt": "2024-11-06T14:19:36.732Z",
+            "__v": 0
+        },
+        {
+            "_id": "672b8c963d8e9aa0bcc30f21",
+            "title": "The Catcher in the Rye",
+            "author": "J. D. Salinger",
+            "publishYear": 1951,
+            "createdAt": "2024-11-06T15:34:46.883Z",
+            "updatedAt": "2024-11-06T15:45:16.028Z",
+            "__v": 0
+        }
+    ]
+}
